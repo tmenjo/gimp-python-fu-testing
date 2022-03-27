@@ -1,0 +1,1 @@
+(python.exe:18880): LibGimpBase-ERROR **: 10:25:54.671: gimp_wire_write_msg: the wire protocol has not been initialized

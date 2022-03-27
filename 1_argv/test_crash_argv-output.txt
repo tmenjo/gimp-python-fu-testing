@@ -1,0 +1,11 @@
+python-eval.py-Warning: calling unittest.main(testRunner=runner, exit=False)
+
+C:\Program Files\GIMP 2\bin\gimp-2.10.exe: LibGimpBase-WARNING: gimp-2.10.exe: gimp_wire_read(): error
+GIMP-Error: Plug-in crashed: "python-eval.py"
+(C:\Program Files\GIMP 2\lib\gimp\2.0\plug-ins\python-eval\python-eval.py)
+
+The dying plug-in may have messed up GIMP's internal state. You may want to save your images and restart GIMP to be on the safe side.
+
+batch command experienced a calling error:
+Procedure 'python-fu-eval' returned no return values
+(Type any character to close this window)

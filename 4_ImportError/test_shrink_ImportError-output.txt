@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "test_shrink.py", line 7, in <module>
+    from gimpfu import *
+ImportError: No module named gimpfu
